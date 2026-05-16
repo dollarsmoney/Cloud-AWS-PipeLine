@@ -209,6 +209,9 @@ Author Notes
 
 This infrastructure gives you:
 
+#Changes
+
+
 Terraform + GCP + Redpanda + Observability
 
 A strong foundation for:
